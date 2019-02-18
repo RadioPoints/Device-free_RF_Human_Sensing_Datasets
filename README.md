@@ -1,5 +1,7 @@
 # Device-free_RF_Human_Sensing_Datasets
 
+## WiFi-Crowd Counting
+
 This repository contains the dataset that was collected and processed with the objective of counting the number of people in a room using device-free WiFi Channel State Information (CSI) measurement and processing.
 
 WiFi CSI data are extracted from the received packets by using a modiﬁed version of a open-source wireless driver for the Intel IWL-5300 WiFi card. We carried out WiFi CSI collection on three diﬀerent rooms, see uploaded Figure.
