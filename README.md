@@ -38,7 +38,6 @@ month={Oct},}
  location = {Singapore, Singapore},
  pages = {37--42},
  numpages = {6},
- url = {http://doi.acm.org/10.1145/2935651.2935657},
  doi = {10.1145/2935651.2935657},
  acmid = {2935657},
  publisher = {ACM},
