@@ -8,7 +8,7 @@ WiFi CSI data are extracted from the received packets by using a modiﬁed versi
 
 CSI measurements have been collected for each class of people (from 0 to 7) and for each room.
 
-The collected CSI data can be processed for feature extraction, feature selection and classiﬁcation tasks.
+The collected CSI data can be processed for feature extraction, feature selection and classiﬁcation tasks. Matlab variables may be created using read_bf_file.m of the tool: https://github.com/dhalperi/linux-80211n-csitool-supplementary/tree/master/matlab
 
 This dataset may be used for non-commercial research provided you acknowledge the source of the data by citing the following papers:
 
@@ -48,7 +48,6 @@ month={Oct},}
 } 
 
 
-https://github.com/dhalperi/linux-80211n-csitool-supplementary
 
 
 
